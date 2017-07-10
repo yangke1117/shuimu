@@ -7,7 +7,7 @@
 	height: 80px;
 	position: absolute;
 	top:135px;
-	left:750px;
+	left:800px;
 }
 .idnex-span1{
 	display: block;
@@ -38,7 +38,7 @@
 .item-div3{
 	position: absolute;
 	top:135px;
-	left: 300px;
+	left: 368px;
 }
 .item-div3 span{
 	display: block;
@@ -56,7 +56,7 @@
 .item-div4{
 	position: absolute;
 	top:135px;
-	left: 200px;
+	left: 368px;
 }
 
 .item-div4 span{  
@@ -74,24 +74,6 @@
 .idnex-span6{
 	font-size: 28px;
 }
-
-/*.idnex-span5{
-	 font:28px "微软雅黑";
-	 font-weight:bold;
-	 position:relative;
-	text-shadow: 1px 2px 3px rgba(21,73,191,0.5);
-	 color:#1549bf;
-}
-.idnex-span5:after{ 
-	position:absolute;
-	left:0px; 
-	color:#ea0000; 
-	-webkit-mask-image:-webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, 0.9)), color-stop(40%, rgba(0, 0, 0, 0.5)),to(rgba(0, 0, 0, 0))); 
-	text-shadow:0px 0px 2px rgba(234,0,0,1);
-}
-
-*/
-
 
 .index-banner{
 /*	width: 1350px;
@@ -216,7 +198,7 @@
 	width: 158px;
 	height:200px;
 	margin-top: 94px;
-	margin-left: 90px;
+	margin-left:368px;
 	
 }
 .index-ul1-li1{

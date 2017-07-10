@@ -6,11 +6,29 @@
 .contact-banner{
 	height: 384px;
 	overflow: hidden;
+	position: relative;
 }
  .contact-banner .contact-banner1{
 	position: relative;
 	width: 760px;
 	height: 384px;
+}
+.contact-div{
+	width: 160px;
+	height: 210px;
+	position: absolute;
+	top:70px;
+	left: 490px;
+	font-size: 13px;
+	color: #fff;
+	text-align: center;
+}
+.contact-div img{
+	margin: 10px auto;
+}
+.contact-div-span{
+	font-size: 40px;
+	display: block;
 }
  .contact-banner .contact-banner1:after{
 	width: 0;
@@ -34,6 +52,7 @@
 	height: 385px;
 
 }
+
 .nav .subnav-txt{
 	margin-left: 4px;
 }
