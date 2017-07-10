@@ -121,7 +121,7 @@
 	background:#eee;
 	margin-right:15px;
 }
-.mu-list-item img{
+.mu-list-item-img{
 	width:290px;
 	height:230px;
 	vertical-align: top;
@@ -138,6 +138,16 @@
 	padding-right:50px;
 	color:#393939;
 	font-weight:bold;
+}
+.mu-list-content .mus{
+	width: 16px;
+	height: 16px;
+	vertical-align: top;
+	margin-top: 2px;
+	margin-right: 10px;
+}
+.mu-list-content img{
+
 }
 
 .mu-list-content:before{
@@ -159,7 +169,6 @@
 .mu-list-content div{
 	font-size:12px;
 	padding:4px 0;
-	padding-left:20px;
 }
 .mu-list-time{
 	background:url(../img/museum-icon01.png) no-repeat left center;
