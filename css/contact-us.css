@@ -1,0 +1,136 @@
+
+.w1350{
+	width: 1350px;
+	margin: 0 auto;
+}
+.contact-banner{
+	height: 384px;
+	overflow: hidden;
+}
+ .contact-banner .contact-banner1{
+	position: relative;
+	width: 760px;
+	height: 384px;
+}
+ .contact-banner .contact-banner1:after{
+	width: 0;
+	height: 0;
+	border-right:241.644px solid #83ab41;
+	border-bottom:300px solid transparent;
+	border-top: 197.363px solid transparent;
+/*	border-right:241.644px solid #83ab41;
+	border-bottom:295.859px solid transparent;
+	border-top: 197.363px solid transparent;*/
+/*	transform:rotate(39deg);*/
+	transform:rotate(39.1deg);
+	position:absolute;
+	content: "";
+	top: -133px;
+	right:-180px;
+	z-index: 10;
+}
+.contact-banner #map{
+	width:1140px;
+	height: 385px;
+
+}
+.nav .subnav-txt{
+	margin-left: 4px;
+}
+.w922{
+	width: 922px;
+	margin:0 auto;
+}
+.contact-top{
+	height: 214px;
+	border-top:1px  dashed #564d4b;
+	/*vertical-align: middle;*/
+	border-bottom:1px  dashed #564d4b;
+}
+.contact-top .connect{
+	width: 434px;
+	height: 135px;
+	border-right:1px  dashed #564d4b;
+	margin-top: 39px;
+}
+.contact-top .connect img{
+	margin-right: 30px;
+}
+.contact-top .connect span{
+	display: block;
+}
+.contact-top .connect .connect-span1{
+	font-size: 29px;
+	margin-top: 26.5px;
+}
+.contact-top .connect .connect-span2{
+	font-size: 14px;
+}
+.contact-top .connect .connect-span3{
+	font-size: 18px;
+}
+
+.contact-top .caller{
+	width: 487px;
+	height: 135px;
+	text-align: center;
+	margin-top: 50px;
+}
+.contact-top .caller span{
+	width: 252px;
+	display: block;
+	margin: 0 auto;
+}
+.contact-top .caller .caller-span1{
+	font-size: 29px;
+}
+.contact-top .caller .caller-span2{
+	font-size: 14px;
+}
+
+.contact-main{
+	height: 152px;
+	border-bottom:1px  dashed #564d4b;
+}
+.contact-main .contact-img1{
+	margin-top: 51.5px;
+	margin-right: 22px;
+}
+.contact-main div{
+	margin-top: 51.5px;
+	font-size: 0;
+}
+.contact-main span{
+	display: block;
+}
+.connect-span4{
+	font-size: 21px;
+}
+.connect-span5{
+	font-size: 16px;
+
+}
+.connect-span6{
+	font-size: 16px;
+}
+.contact-main1{
+	height: 222px;
+	border-bottom:1px  dashed #564d4b;
+}
+.contact-main1 .contact-img1{
+	margin-top: 37px;
+	margin-right: 22px;
+}
+.contact-main1 div{
+	margin-top: 51.5px;
+	font-size: 0;
+}
+.contact-main1 span{
+	display: block;
+}
+.contact-img2{
+	margin:45px 25px 0 112px;
+}
+.footer{
+	margin-top: 33px;
+}

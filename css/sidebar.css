@@ -1,0 +1,41 @@
+/*侧边栏*/
+.sidebar{
+	width: 100px;
+	height: 300px;
+	background: #9a9a9a;
+	position:fixed;
+	right:0;
+	top:50%;
+}
+.sidebar .tel{
+	padding-top: 19px;
+	color:#fff;
+	text-align: center;
+	font-size: 0;
+}
+.sidebar .tel span{
+	font-size: 12px;
+	display: block;
+}
+.sidebar .tel .dashed{
+	margin-top: 10px;
+}
+.sidebar .tel .erweima{
+	margin-top: 10px;
+	margin-bottom: 6px;
+}
+.sidebar .tel .wechat{
+	margin-top:6px; 
+	margin-bottom: 5px;
+}
+.sidebar .tel .dashed1{
+	margin-top: 6px;
+	margin-bottom: 10px;
+}
+.sidebar .tel .goback{
+	margin-bottom: 10px;
+}
+.sidebar .tel a{
+	color: #fff;
+	font-size: 12px;
+}

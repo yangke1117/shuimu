@@ -1,0 +1,35 @@
+/* 频道页(方案)*/
+
+.w1350{
+	width: 1350px;
+	margin: 0 auto;
+}
+.company-main .enterprise-solutions1{
+	height: 580px;
+}
+.company-main .enterprise-solutions1 .solutions-tuwen{
+	width: 241px;
+	height: 478px;
+	
+}
+.company-main .enterprise-solutions1 .solutions-tuwen img{
+	margin-bottom: 15px;
+}
+.company-main .enterprise-solutions1 .solutions-tuwen .solutions-tuwen1 h4{
+	width: 231px;
+	height: 27px;
+	line-height: 27px;
+	background: #c0ddc7;
+	font-size: 17px;
+	padding-left: 10px;
+}
+.company-main .enterprise-solutions1 .solutions-tuwen .solutions-tuwen1 p{
+	font-size: 13px;
+	width: 219px;
+	height: 156px;
+	border-left:1px solid #c0ddc7;
+	border-right:1px solid #c0ddc7;
+	border-bottom:2px solid #c0ddc7;
+	padding-left: 10px;
+	padding-right: 10px;
+}

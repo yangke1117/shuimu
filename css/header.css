@@ -1,0 +1,146 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Microsoft YaHei Light,Microsoft YaHei,Arial Narrow,Arial,"sans-serif";
+}
+.mt13{
+	margin-top: 13px;
+}
+ul,ol{
+	list-style-type: none;
+}
+img{
+	border: 0;
+	max-width: 100%;
+}
+input{
+	outline: none;
+}
+a,
+a:hover,
+a:active{
+	text-decoration: none!important;
+	color: #333;
+}
+.w1010{
+	width: 1010px;
+	margin: 0 auto;
+}
+/*头部*/
+.header{
+/*	width: 100%;*/
+	width:1920px; 
+	height:32px;
+	line-height: 32px;
+	border-bottom:1px solid #d2d2d2;
+}
+.header ul{
+	float:right;
+	margin-right: 100px;
+}
+.header ul li{
+	margin-right: 33px;
+	text-align: center;
+	float:left;
+	font-size: 14px;
+	list-style:none;
+}
+.header ul li img{
+	margin-right:7px;
+	margin-top:9px;
+	vertical-align: top;
+}
+
+.logo {
+	width: 1920px;
+	height:114px;
+	line-height: 114px;
+	border-bottom: 1px solid #d2d2d2;
+}
+.logo-head{
+	height: 114px;
+}
+.logo-head img{
+	float: left;
+	margin-top: 19px;
+}
+.shui{
+	margin-left: 200px;
+}
+.logo-txt{
+	width: 1920px;
+	height: 114px;
+	text-align: center;
+}
+.logo-txt1{
+	font-size: 29px;
+	margin-right: 30px;
+}
+.logo-txt2{
+	color: #ababab;
+}
+.company{
+	width: 1920px;
+	height: 50px;
+	padding: 0;
+	border-bottom: 1px solid #d2d2d2;
+}
+.company .company-nav{
+	height: 50px;
+/*	line-height: 50px;*/
+}
+.company .company-nav .case-ul{
+	float: left;
+}
+.company .company-nav .case{
+	width: 160px;
+	height: 50px;
+	background: #ababab;
+	color:#fff;
+	text-align: center;
+	line-height: 50px;
+	float: left;
+}
+/*.company .company-main .case:hover{
+
+}*/
+.mr122{
+	margin-right: 122px;
+}
+.company .company-nav .case.active{
+	border-bottom:5px solid #008e48;
+}
+
+.company .company-nav .case-ul .case-ul1{
+	display: none;
+}
+.company .company-nav .case-ul .case-ul1 li{
+	position: relative;
+}
+.company .company-nav .case-ul .case a{
+	color: #fff;
+}
+.company .company-nav .case-ul .case li a{
+	color: #000;
+}
+.company .company-nav .case-ul .case-ul1 i{
+	position: absolute;
+	left: 38px;
+	top: 22px;
+	display: none;
+	width: 5px;
+	height: 5px;
+	background: #008e48;
+	border-radius: 50%;
+}
+.company .company-nav .case-ul .case:hover>.case-ul1{
+	display: block;
+	background: #dbefe2;
+}
+.company .company-nav .case-ul .case-ul1 li:hover{
+	background: #9ac8b1;
+
+}
+.company .company-nav .case-ul .case-ul1 li:hover i{
+	display: block;
+}

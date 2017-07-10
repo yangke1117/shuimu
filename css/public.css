@@ -1,0 +1,475 @@
+
+/*.w1350{
+	width: 1350px;
+}*/
+
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.mt24{
+	margin-top: 24px;
+}
+/*导航链接部分*/
+.nav{
+	width: 1920px;
+	height: 60px; 
+}
+.nav .subnav{
+	/*text-align: right;*/
+	height: 60px;
+	line-height: 60px;
+}
+.nav .subnav .subnav-txt{
+	/*float:left;*/
+	height: 24px;
+	line-height: 24px;
+	border-left: 4px solid #008e48;
+	margin-top: 22px;
+	padding-left: 6px;
+}
+.nav .subnav .subnav-txt a{
+	color: #000;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+/*banner图*/
+.banner{
+	/*width: 100%;*/
+	width: 1920px;
+	margin: 0 auto;
+	height: 371px;
+	background: url(../img/banner1.jpg) no-repeat;
+}
+
+
+
+.company-main{
+	width: 1920px;
+	margin-top: 24px;
+}
+
+/*企业展厅案例*/
+
+.company-main .enterprise-case{
+	height: 604px;
+}
+.company-main  .enterprise{
+	height: 82px;
+	margin-top: 10px;
+}
+.company-main  .enterprise img{
+	margin-top: 25px;
+	float: left;
+}
+.company-main  .enterprise .enterprise-div{
+	float: left;
+	height: 32px;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.company-main  .enterprise .enterprise-div .enterprise-span1{
+	margin-left: 10px;
+	display: block;
+	font-size: 18px;
+	color: #000;
+	font-weight: bold;
+}
+.company-main  .enterprise .enterprise-div .enterprise-span2{
+	font-size: 12px;
+	display: block;
+	color: #000;
+	font-weight: bold;
+}
+
+.mr15{
+	margin-right: 15px;
+}
+.company-main .enterprise-case .case-left{
+	width: 326px;
+	height: 522px;
+	font-size: 0;
+	float: left;
+}
+.company-main .enterprise-case .case-left .intro{
+	height: 30px;
+	line-height: 30px;
+}
+.company-main .enterprise-case .case-left .intro img{
+	vertical-align: top;
+	margin-top: 6px;
+	margin-right: 8px;
+}
+.company-main .enterprise-case .case-left span{
+	font-size: 14px;
+}
+
+.company-main .enterprise-solutions{
+	height: 494px;
+}
+.company-main .enterprise-solutions .project ul li{
+/*	width: 496px;*/
+	height: 200px;
+}
+
+.company-main .enterprise-solutions .project .project-title{
+	width: 206px;
+	height: 35px;
+	line-height: 35px;
+	background: #21292c;
+	color: #fff;
+	font-size:15px;
+	padding-left: 17px;
+}
+.company-main .enterprise-solutions .project .project-centre{
+	width: 185px;
+	height: 155px;
+	background: #313a3f;
+	color: #fff;
+	padding-left: 17px;
+	padding-right: 21px;
+	padding-top: 10px;
+
+}
+.company-main .enterprise-solutions .project .project-centre span{
+	font-size: 12px;
+	overflow : hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 8;
+	-webkit-box-orient: vertical;
+}
+.company-main .enterprise-solutions .project .project-title1{
+	width: 206px;
+	height: 35px;
+	line-height: 35px;
+	background: #65a574;
+	color: #fff;
+	font-size:15px;
+	padding-left: 17px;
+}
+.company-main .enterprise-solutions .project .project-centre1{
+	width: 185px;
+	height: 155px;
+	background: #96d2a4;
+	font-size: 10px;
+	color: #fff;
+	padding-left: 17px;
+	padding-right: 21px;
+	padding-top: 10px;
+}
+.company-main .enterprise-solutions .project .project-centre1 span{
+	font-size: 12px;
+	overflow : hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 8;
+	-webkit-box-orient: vertical;
+}
+.company-main .enterprise-solutions .project ul li a{
+	overflow: hidden;
+/*	width: 496px;*/
+	height: 200px;
+	display: block;
+}
+.company-main .enterprise-solutions .project ul li .tuwen1{
+	height: 200px;
+	position: relative;
+}
+.company-main .enterprise-solutions .project ul li .tuwen1::after{
+	content: "";
+	clear: both;
+}
+.company-main .enterprise-solutions .project ul li .tuwen1 i.triangle{
+	position: absolute;
+	bottom:25px;
+	right: -10px;
+	width: 0;
+	height: 0;
+	content: "";
+	border-left: 10px solid #313a3f;
+	border-top: 12px solid transparent;
+	border-bottom: 12px solid transparent;
+}
+.company-main .enterprise-solutions .project ul li .tuwen2{
+	height: 200px;
+	position: relative;
+}
+.company-main .enterprise-solutions .project ul li .tuwen2::after{
+	content: "";
+	clear: both;
+}
+.company-main .enterprise-solutions .project ul li .tuwen2 i.triangle1{
+	position: absolute;
+	bottom:25px;
+	right: -10px;
+	width: 0;
+	height: 0;
+	content: "";
+	border-left: 10px solid #96d2a4;
+	border-top: 13px solid transparent;
+	border-bottom: 13px solid transparent;
+}
+
+
+/*企业展厅效果图*/
+.company-main .enterprise-aim{
+	height: 557px;
+}
+
+.company-main .enterprise-aim .result{
+	width: 326px;
+	font-size: 0;
+	float: left;
+}
+.company-main .enterprise-aim .result .intro{
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 28px;
+}
+.company-main .enterprise-aim .result .intro img{
+	vertical-align: top;
+	margin-top: 6px;
+	margin-right: 8px;
+}
+.company-main .enterprise-aim .result span{
+	font-size: 14px;
+}
+
+.company-main .blogroll{
+	margin-top: 50px;
+	margin-bottom: 124px;
+	border-bottom: 1px solid #d2d2d2;
+	position:relative;
+}
+.company-main .blogroll span{
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 4px;
+	width: 63px;
+	height: 15px;
+}
+.company-main .blogroll i{
+	display: block;
+	width: 63px;
+	height: 4px;
+	background: #008e48;
+	position: absolute;
+	bottom: -4px;
+	left:-2px;
+}
+
+/*企业展厅效果图 第二版*/
+
+.company-main .enterprise-aim1{
+	height: 850px;
+}
+.company-main .enterprise-aim1 .aim-left{
+	width: 334px;
+	height: 740px;
+	margin-right: 19px;
+}
+.company-main .enterprise-aim1 .aim-left-top{
+	position: relative;
+	font-size: 0;
+}
+
+.company-main .enterprise-aim1 .aim-left .aim-left-bottom{
+	width: 334px;
+	height: 230px;
+	position: relative;
+	font-size: 0;
+}
+.company-main .enterprise-aim1 a span{
+	width: 142px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	position: absolute;
+	left: 0;
+	bottom: 30px;
+	background: #3b4555;
+	opacity: 0.9;
+	color: #fff;
+	padding-left: 8px;
+}
+.company-main .enterprise-aim1 span img{
+	margin-top: 8px;
+	margin-right: 6px;
+	vertical-align: top;
+}
+.company-main .enterprise-aim1 .aim-left-a {
+	display: block;
+	width: 334px;
+	height: 232px;
+	margin-top: 25px;
+}
+
+.company-main .enterprise-aim1 .aim-right{
+	width: 655px;
+	height: 740px;
+}
+.company-main .enterprise-aim1 .aim-right .aim-right-top{
+	width: 655px;
+	position: relative;
+	font-size: 0;
+}
+
+.company-main .enterprise-aim1 .aim-right .aim-right-top span{
+	width: 142px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	position: absolute;
+	left: 0;
+	bottom: 30px;
+	background: #3b4555;
+	opacity: 0.9;
+	color: #fff;
+	padding-left: 8px;
+}
+
+.aim-right-conter{
+	margin-top: 25px;
+}
+
+
+/* 频道页(方案) 内容上边部分*/
+
+/*企业展厅方案 图文部分*/
+
+.company-main .enterprise-solutions1{
+	height: 580px;
+}
+.company-main .enterprise-solutions1 .solutions-tuwen{
+	width: 241px;
+	height: 478px;
+	
+}
+.company-main .enterprise-solutions1 .solutions-tuwen img{
+	margin-bottom: 15px;
+}
+.company-main .enterprise-solutions1 .solutions-tuwen .solutions-tuwen1 h4{
+	width: 231px;
+	height: 27px;
+	line-height: 27px;
+	background: #c0ddc7;
+	font-size: 17px;
+	padding-left: 10px;
+}
+.company-main .enterprise-solutions1 .solutions-tuwen .solutions-tuwen1 p{
+	font-size: 12px;
+	width: 219px;
+	height: 130px;
+	border-left:1px solid #c0ddc7;
+	border-right:1px solid #c0ddc7;
+	border-bottom:5px solid #c0ddc7;
+	padding: 8px 10px;
+	font-size: 12px;
+	overflow : hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 8;
+	-webkit-box-orient: vertical;
+}
+
+/*首页>策划方案>西塘历史*/
+/*museum-scheme*/ /*策划方案*/
+
+.top{
+	width: 213px;
+	margin:0 auto;
+	margin-top: 93px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 18px;
+	border:1px solid black;
+	position: relative;
+	margin-bottom:50px;
+}
+.top>.top-txt{
+	position: absolute;
+	bottom:-18px;
+	left:47px;
+	width: 120px;
+	font-size: 12px;
+	background: white;
+	height: 25px;
+	line-height: 12px;
+	text-align: center;
+}
+.top>.top-txt>span{
+	background: #008e48;
+	display: inline-block;
+	width: 26px;
+	height: 3px;
+}
+
+/*分页*/
+
+.mu-pages{
+	margin-top:20px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+.mu-pages a{
+	display:inline-block;
+	color:#333;
+	border:1px solid #aaa;
+	padding:5px 11px;
+	margin-left:5px;
+
+}
+.mu-pages .mu-pages-a{
+	color:#fff;
+	background: #008e48;
+}
+/*相关案例 轮播*/
+.cases{
+	width: 1144px;
+	margin:0 auto;
+	border-top:1px solid #969696;
+	margin-top: 30px;
+	margin-bottom: 70px;
+}
+.cases-head{
+	font-size: 25px;
+	color: #7e7e7e;
+	padding-top: 14px;
+	padding-bottom: 20px;
+}
+.cases-head span{
+	float: right;
+}
+.cases-head span img{
+	width: 40%;
+}
+.cases-head span img:hover{
+	cursor: pointer;
+}
+.lunbo{
+	width: 1156px;
+	height: 239px;
+	position:relative;
+}
+.lunbo .lunbo1{
+	width: 1156px;					
+	overflow: hidden;
+	margin-bottom: 30px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+}
+.cases ul li{
+	width: 277px;
+	float: left;
+	font-size: 12px;
+	margin-right: 12px;
+	color: #393f46;
+	text-align: center;
+}

@@ -1,0 +1,186 @@
+
+
+.us-banner{
+/*	width: 1350px;*/
+	height: 380px;
+	margin-bottom: 12px;
+}
+.us-banner img{
+	vertical-align:top;
+}
+.w790{
+	width: 790px;
+	margin: 0 auto;
+}
+.mr122{
+	margin-right: 122px;
+}
+.us-main{
+	width: 100%;
+	height: 90px;
+	background: #e1e2e3;
+}
+.us-main ul{
+	height: 90px;
+}
+.us-main ul li{
+	width: 182px;
+	height: 90px;
+	float: left;
+	text-align: center;
+	background: #eeeeee;
+}
+.us-main ul li a{
+	display: block;
+	width: 182px;
+	height: 63px;
+}
+.us-main span{
+	color:#565656;
+}
+.us-main .us-main-span1{
+	font-size: 20px;
+	display: block;
+	margin-top: 22px;
+}
+.us-main .us-main-span2{
+	font-size: 12px;
+	display: block;
+}
+
+
+
+.honove-active{
+	border-bottom: 5px solid #008e48;
+}
+
+.honor .enterprise-honor{
+	height: 101px;
+	padding-top: 51px;
+}
+.honor .enterprise-honor span{
+	display: block;
+	width: 298px;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto;
+	font-size: 20px;
+	text-align: center;
+	background: url(../img/honor.png) no-repeat center;
+}
+.honor .certificate-honor{
+	margin-bottom: 35px;
+}
+
+
+.footer{
+	margin-top: 153px;
+}
+
+
+
+
+
+
+
+
+.introduction{
+	height: 40px;
+	line-height: 40px;
+	margin-top: 75px;
+}
+.introduction .introduction-mid{
+	width: 84px;
+	height: 40px;
+	line-height: 20px;
+	float: left;
+	font-size: 0;
+	text-align: center;
+}
+.introduction .introduction-mid span{
+	display: block;
+
+
+}
+.introduction span.introduction-left{
+	height: 1px;
+	background: #393f46;
+	width: 340px;
+	float: left;
+	margin-right:15px;
+	margin-top: 19px;
+}
+.introduction span.introduction-right{
+	height: 1px;
+	background: #393f46;
+	width: 332px;
+	float: right;
+	margin-top: 19px;
+}
+
+.introduction-span1{
+	font-size: 20px;
+}
+.introduction-span2{
+	font-size: 12px;
+}
+.introduction-txt{
+	margin-top: 80px;
+	font-size: 20px;
+	margin-bottom: 60px;
+}
+.qualification{
+	text-align: center;
+}
+.qualification img{
+	margin-top: 72px;
+}
+.qualification-img3{
+	margin-right: 20px;
+}
+
+
+
+
+#ulsel01{
+	width: 790px;
+	margin: 0 auto;
+	padding: 0 280px;
+	height: 95px;
+	background: #e1e2e3;
+}
+#ulsel01 li{
+	width: 182px;
+	height: 63px;
+	padding: 13px 0;
+	float: left;
+	text-align: center;
+	background: #eeeeee;
+	border-bottom: 5px solid #eee;
+	margin-left: 122px;
+}
+#ulsel01 li:first-child{
+	margin-left: 0;
+}
+#ulsel01 li span{
+	color:#565656;
+}
+#ulsel01 li span.span1{
+font-size: 20px;
+	display: block;
+	margin-top: 12px;
+}
+#ulsel01 li span.span2{
+font-size: 12px;
+	display: block;
+	margin-bottom: 10px;
+}
+#ulsel01 li.active{
+	border-bottom: 5px solid #008e48;
+}
+#ulcnt01 li{
+	display: none;
+}
+#ulcnt01 li.block{
+	display: block;
+}

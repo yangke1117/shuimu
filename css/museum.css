@@ -1,0 +1,170 @@
+/*.mu-banner-img{
+	width:1350px;
+}*/
+.mu-select{
+	width: 1260px;
+	padding-left:80px;
+	margin:10px auto 30px;	
+	overflow: hidden;
+}
+.mu-select-box{
+	float:left;
+	margin-right:6px;
+	width:180px;
+	height:120px;
+	padding:6px;
+}
+.mu-select-item{
+	display:block;
+	float:left;
+	width:180px;
+	height:120px;
+	background-color:#eee;
+	text-align: center;
+	font-weight: bold;
+
+}
+.mu-select-item h3{
+	font-size:21px;
+	padding-top:40px;
+	padding-bottom:10px;
+}
+.mu-select-item p{
+	font-size:12.5px;
+}
+.mu-select-item__click{
+	background: url(../img/museum-side.png) no-repeat left 2px;
+
+}
+.mu-select-item__click:after{
+	display:block;
+	width:180px;
+	height:5px;
+	position:absolute;
+	background:#008e48;
+	margin-top:112px;
+	content:"";
+}
+.mu-show{
+	width: 1260px;
+	margin:0 auto;
+	padding-left:90px;
+	position:relative;
+}
+.mu-show-img{
+	width:1174px;
+	height:380px;
+}
+.mu-show-text{
+	position:absolute;
+	top:0;
+	left:90px;
+	width:340px;
+	padding:130px 80px 0 60px;
+	height:250px;
+	z-index:1;
+	background:rgba(0,0,0,.5);
+	color:#fff;
+}
+.mu-show-text h2{
+	text-align: justify;
+	font-size:33.3px;
+	padding-bottom:20px;
+}
+.mu-show.text p{
+	font-size:14.5px;
+}
+.mu-show-more{
+	display:inline-block;
+	border:1px solid ;
+	margin:20px 0 0 190px;
+	padding:5px 25px;
+	font-size:16px;
+	border-radius:20px;
+	color:#fff;
+}
+.mu-show-more:hover{
+	color:#fff;
+}
+.mu-list{
+	width: 1260px;
+	overflow: hidden;
+	padding-left:90px;
+	margin: 50px auto 65px;
+/*	margin-top:50px;
+	margin-bottom:65px;*/
+}
+.mu-list-item{
+	float:left;
+	margin-top:30px;
+	background:#eee;
+	margin-right:15px;
+}
+.mu-list-item img{
+	width:290px;
+	height:230px;
+	vertical-align: top;
+}
+.mu-list-item:hover{
+	background:#dbefe2;
+}
+.mu-list-content{
+	float:left;
+	width:220px;
+	height:200px;
+	padding-top:30px;
+	padding-left:20px;
+	padding-right:50px;
+	color:#393939;
+	font-weight:bold;
+}
+
+.mu-list-content:before{
+	display:block;
+	width:210px;
+	height:5px;
+	background:#008e48;
+	content:"";
+}
+.mu-list-item-title{
+	color:#008e48;
+	font-size:21px;
+	width:250px;
+	line-height:1.8em;
+}
+.mu-list-content p{
+	font-size:12px;
+}
+.mu-list-content div{
+	font-size:12px;
+	padding:4px 0;
+	padding-left:20px;
+}
+.mu-list-time{
+	background:url(../img/museum-icon01.png) no-repeat left center;
+}
+.mu-list-city{
+	background:url(../img/museum-icon02.png) no-repeat left center;
+}
+.mu-list-size{
+	background:url(../img/museum-icon03.png) no-repeat left center;
+}
+.mu-list-money{
+	background:url(../img/museum-icon04.png) no-repeat left center;
+}
+.mu-pages{
+	margin-bottom: 60px;
+	text-align: center;
+}
+.mu-pages a{
+	display:inline-block;
+	color:#333;
+	border:1px solid #aaa;
+	padding:5px 11px;
+	margin-left:5px;
+
+}
+.mu-pages .mu-pages-a{
+	color:#fff;
+	background: #008e48;
+}

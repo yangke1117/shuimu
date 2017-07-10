@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Microsoft YaHei Light,Microsoft YaHei,Arial Narrow,Arial,"sans-serif";
+}
+.mt13{
+	margin-top: 13px;
+}
+ul,ol{
+	list-style-type: none;
+}
+img{
+	border: 0;
+	max-width: 100%;
+}
+input{
+	outline: none;
+}
+a,
+a:hover,
+a:active{
+	text-decoration: none!important;
+	color: #333;
+}
+.w940{
+	width: 940px;
+	margin: 0 auto;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.w1350{
+	width: 1350px;
+	margin: 0 auto;
+}
+.header{
+	/*width:1350px;*/
+	height: 140px;
+	line-height: 140px;
+	background: url(../img/xiantiao1.png) no-repeat;
+	margin:0 auto; 
+	text-align: center;
+}
+.header .shui{
+	vertical-align: top;
+	margin-top: 35px;
+}
+.header .jin-title{
+	font-size: 28px;
+	font-weight: bold;
+}
+.index-logo{
+	vertical-align: top;
+	margin-top: 35px;
+	margin-left: 132px;
+}
+.service-hotline{
+	width: 170px;
+	height: 100px;
+	margin-top: 30px;
+	margin-right: 100px;
+	text-align: center;
+}
+.index-tel{
+	vertical-align: top;
+	display: block;
+	margin-left: 57.5px;
+	margin-bottom: 10px;
+}
+.service-hotline span{
+	display: block;
+	width: 162px;
+	height: 20px;
+	line-height: 20px;
+}
+.service-hotline-span1{
+	font-size: 16px;
+}
+.service-hotline-span2{
+	font-size: 24px;
+}
+.jin-nav{
+/*	width: 1350px;*/
+	height: 35px;
+	line-height: 31px;
+	background: #2b2a2a;
+	margin:0 auto; 
+	/*margin-bottom: 30px;*/
+}
+.mb30{
+	margin-bottom: 30px;
+}
+.jin-active{
+	border-top:4px solid #008e48;
+}
+.jin-nav ul{
+/*	float:left;*/
+	width: 870px;
+	height: 35px;
+	margin: 0 auto;
+}
+.jin-nav ul li {
+	height: 31px;
+	margin-right: 62px;
+	float: left;
+}
+.jin-nav ul li.jin-nav-li6{
+	margin-right:0;
+}
+.jin-nav ul li a{
+
+	text-align: center;
+	font-size: 17px;
+	list-style:none;
+	color: #fff;
+}
+.jin-nav ul li img{
+	margin-right:7px;
+	margin-top:7px;
+	vertical-align: top;
+}
+.subnav{
+/*	width: 1350px;
+	height: 130px;
+	line-height: 130px;*/
+	margin: 0 auto;
+}

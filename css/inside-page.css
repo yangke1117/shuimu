@@ -1,0 +1,168 @@
+/*视频*/
+.video-main{
+	width: 975px;
+	height: 498px;	
+	margin:0 auto;
+}
+.video{
+	width: 700px;
+	float: left;
+	/*border:1px solid #008e48;*/
+}
+.video img{
+	float: left;
+	margin-top: 15px;
+}
+.video>div{
+	width: 625px;
+	float: right;
+	font-size: 12px;
+	color: #393f46;
+	margin-left: 20px;
+	margin-top: 18px;
+}
+.video-right{
+	float: right;
+	width: 250px;
+	height: 439px;
+	border:1px solid #008e48;
+}
+.video-right p{
+	height: 86px;
+	line-height: 86px;
+	color: #393f46;
+	font-size: 20px;
+	padding-left: 28px;
+	width: 100%;
+}
+.video-right-body{
+	padding-left: 26px;
+	padding-right: 20px;
+	position: relative;
+}
+.video-right-body i{
+	display: block;
+	width: 7px;
+	height: 7px;
+	background: #008e48;
+	border-radius: 50%;
+	float: left;
+	position: absolute;
+	left: 10px;
+	top:-3px;
+}
+.video-right-top{
+	border-top: 1px solid #d7d9da;
+	padding:15px 0 25px 5px;
+	font-size: 12px;
+}
+.video-right-top ul li img{
+	vertical-align: top;
+	margin-right: 10px;
+}
+.video-right-top ul li{
+	margin-top: 17px;
+}
+.see{
+	width: 78px;
+	height: 23px;
+	line-height: 23px;
+	border-radius: 10px;
+	background:#008e48;
+	text-align: center;
+	color: #fff;
+	float: right;
+	margin-top: 30px;
+}
+video{
+	width: 700px;
+	height: 400px;
+	/*border-bottom: 1px solid #d7d9da;*/
+}
+/*内容*/
+section{
+	/*width: 1144px;*/
+	width: 1920px;
+	text-align: center;
+	margin:0 auto;
+	/*border-bottom: 1px solid #969696;*/
+}
+section>.top{
+	width: 213px;
+	margin:0 auto;
+	margin-top: 93px;
+	height: 42px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 18px;
+	border:1px solid black;
+	position: relative;
+}
+section>.top>.top-txt{
+	position: absolute;
+	bottom:-18px;
+	left:47px;
+	width: 120px;
+	font-size: 12px;
+	background: #f7f7f7;
+	height: 25px;
+	line-height: 12px;
+	text-align: center;
+}
+section>.top>.top-txt>span{
+	background: #008e48;
+	display: inline-block;
+	width: 26px;
+	height: 3px;
+}
+section img{
+	margin-top: 40px;
+}
+section p{
+	margin-top: 17px;
+	margin-bottom:10px;
+	font-size: 20px;
+	color: black;
+}
+/*相关案例*/
+/*.cases{
+	width: 1144px;
+	margin:0 auto;
+}
+.cases-head{
+	font-size: 25px;
+	color: #7e7e7e;
+	padding-top: 14px;
+	padding-bottom: 20px;
+}
+.cases-head span{
+	float: right;
+}
+.cases-head span img{
+	width: 40%;
+}
+.cases-head span img:hover{
+	cursor: pointer;
+}*/
+/*.lunbo1{
+	width: 1156px;					
+	overflow: hidden;
+	margin-bottom: 30px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+}
+.cases ul li{
+	width: 277px;
+	float: left;
+	font-size: 12px;
+	margin-right: 12px;
+	color: #393f46;
+	text-align: center;
+}
+.lunbo{
+	width: 1156px;
+	height: 239px;
+	position:relative;
+}*/

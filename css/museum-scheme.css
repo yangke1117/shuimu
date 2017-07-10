@@ -1,0 +1,147 @@
+
+
+.xitang-header{
+	width: 212px;
+	height: 40px;
+	line-height: 40px;
+	border:1px solid #000;
+	margin:60px auto;
+	text-align: center;
+	font-size: 19px;
+	position: relative;
+	color: #000000;
+}
+.xitang-header a{
+	display: block;
+	width: 212px;
+	height: 40px;
+}
+.xitang-header i{
+	position: absolute;
+	bottom: 0;
+	left: 46.5px;
+	width: 119px;
+	height: 3px;
+	background: #008e48;
+}
+.xitang-main .xitang-public{
+	width: 1010px;
+	height: 346px;
+	margin-bottom: 30px;
+}
+.xitang-main .xitang-public a{
+	display: block;
+	width: 1010px;
+	height: 346px;
+}
+.xitang-main .xitang-left{
+	width: 290px;
+	height: 344px;
+	border:1px solid #6f6f6f;
+/*	margin-top: 14px;*/
+/*	margin-left: 104px;*/
+}
+.xitang-left p{
+	margin-top:85px;
+	font-size: 14px;
+	line-height: 20px;
+	color: #6f6f6f;
+	padding: 0 15px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
+}
+.xitang-main .xitang-logo .xitang-img1{
+	display: block;
+}
+.xitang-main .xitang-logo .xitang-img2{
+	vertical-align: top;
+	margin-left: 2px;
+}
+.xitang-main .xitang-logo .xitang-logo-head{
+	width: 110px;
+	height: 61px;
+	font-size: 0;
+}
+.xitang-main .xitang-logo span{
+	display: block;
+	width: 110px;
+	margin-left: 2px;
+}
+.xitang-main .xitang-logo{
+	height:61px;
+}
+.xitang-main .xitang-logo .xitang-title{
+	font-size: 14px;
+	color: #4c0f00;
+	font-weight: bold;
+}
+.xitang-main .xitang-logo .xitang-txt{
+	font-size: 5px;
+}
+
+.xitang-main .xitang-logo .lobby1{
+	width: 110px;
+	height: 30px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #4c0f00;
+	text-align: center;
+	margin-top: 4px;
+}
+.xitang-main .xitang-logo .lobby{
+	width: 155px;
+	height: 30px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #4c0f00;
+	text-align: center;
+	margin-top: 4px;
+}
+/*.lobby {
+    background-color: #b2b2b2;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%,
+                            color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent),
+                            color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)),
+                            color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent),
+                            to(transparent));
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+}
+.stripes {
+    height: 110px;
+    width: 30px;
+    float: left;
+    
+    margin: 3px;
+    
+    -webkit-background-size: 1px 1px;
+    -moz-background-size:1px 1px;
+    background-size: 10px 10px; /* 控制条纹的大小 */
+    
+    /*-moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+}*/
+
+.wall-title{
+	height: 14px;
+	line-height: 14px;
+	margin-bottom: 10px;
+}
+.wall-title img{
+	vertical-align: top;
+	margin-top: 2px;
+}
+.wall-title span{
+	font-size: 10px;
+}
