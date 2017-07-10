@@ -1,3 +1,28 @@
+.us-banner{
+	position: relative;
+}
+.item-div4{
+	position: absolute;
+	top:135px;
+	left: 200px;
+}
+
+.item-div4 span{  
+    display: block;
+    color: #1549bf;
+    font-family: '微软雅黑';
+    font-weight: bold;
+    background-image: -webkit-gradient(linear, 0 0, 0 bottom, from(rgba(255,255, 255, 1)), to(rgba(21, 73, 191, 1)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.idnex-span5{
+	font-size: 34px;
+}
+.idnex-span6{
+	font-size: 28px;
+}
+
 .top>.top-txt{
 	position: absolute;
 	bottom:-18px;
